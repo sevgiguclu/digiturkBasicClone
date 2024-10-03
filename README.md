@@ -5,7 +5,8 @@ Tasarım olabildiğince göz yormayan, sade ve şık hazırlanmaya çalışılm�
 + Menünün (header) üstünde gezindiğinizde küçük çaplı büyüme gerçekleşecektir.
 + Sliderda hem kendiniz gezinebilirsiniz hem de belirli sürede geçiş sağlanmıştır.
 + 'Digitürk’te izleyecekleriniz evdeki herkese göre!' başlıklı alanda tasarım değiştirilmiş, farklı şekiller kulanılmıştır.
-+ Footer tasarım yapısı değiştirilmiştir
++ Footer tasarım yapısı değiştirilmiştir.
++ Tüm fotoğraflar assets klasörüne eklenmiştir.
 
 
 
