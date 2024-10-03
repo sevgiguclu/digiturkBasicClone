@@ -1,5 +1,5 @@
 Bu çalışma **Digitürk** sitesi örnek alınarak yapılmıştır.
-**Kesinlikle birebir aynı tasarım ve kodlama değildir.Çalışma sırasında buna dikkat edilmesi arzu edilir.**
+**Kesinlikle birebir aynı tasarım ve kodlama değildir. Çalışma sırasında buna dikkat edilmesi arzu edilir.**
 Tasarım olabildiğince göz yormayan, sade ve şık hazırlanmaya çalışılmıştır.
 ## Notlar
 + Menünün (header) üstünde gezindiğinizde küçük çaplı büyüme gerçekleşecektir.
@@ -12,6 +12,7 @@ Tasarım olabildiğince göz yormayan, sade ve şık hazırlanmaya çalışılm�
 
 
 ## Kullanılan Teknolojiler
++ HTML - CSS
 + Bootstarp
 + Vanilla Js
 + Swiperjs
