@@ -46,7 +46,48 @@ header .nav-link:hover{
 
 /* SLIDER START */
 
+#slider {
+    width: 100%;
+    margin: 0 auto;
+}
 
+.swiper-slide img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+/* Hide navigation buttons on smaller screens */
+@media (max-width: 768px) {
+    header .swiper-button-next,
+    header .swiper-button-prev {
+      display: none;
+    }
+  }
+
+  /* Adjust pagination for mobile */
+  .swiper-pagination {
+    bottom: 15px;
+  }
+
+  /* Image max-height for different screen sizes */
+  @media (max-width: 576px) {
+    .swiper-slide img {
+      max-height: 300px;
+    }
+  }
+
+  @media (min-width: 577px) and (max-width: 992px) {
+    .swiper-slide img {
+      max-height: 400px;
+    }
+  }
+
+  @media (min-width: 993px) {
+    .swiper-slide img {
+      max-height: 500px;
+    }
+  }
 
 /* SLIDER END */
 
